@@ -114,7 +114,7 @@ Open to:
 ## GitHub Stats
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Willi363363&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Willi363363&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
