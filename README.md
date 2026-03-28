@@ -111,13 +111,6 @@ Open to:
 
 ---
 
-## GitHub Stats
-
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Willi363363&show_icons=true&theme=tokyonight)
-
----
-
 ## Contact
 
 * LinkedIn: *https://www.linkedin.com/in/william-rouviere-a918922b9*
