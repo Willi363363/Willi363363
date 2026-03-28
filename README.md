@@ -24,12 +24,12 @@ My goal is to understand how software works **under the hood**, not only how to 
 
 * C
 * Python
-* JavaScript (basic)
 * Bash
 
 ### Environment & Tools
 
 * Linux / Unix
+* ARCH user
 * Git & GitHub
 * Makefile
 * Vim / VS Code
@@ -120,8 +120,8 @@ Open to:
 
 ## Contact
 
-* LinkedIn: *(add link)*
-* Email: *(add email)*
+* LinkedIn: *https://www.linkedin.com/in/william-rouviere-a918922b9*
+* Email: *william-byron.rouviere@epitech.eu*
 * Location: Montpellier, France
 
 ---
