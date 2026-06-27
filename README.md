@@ -60,7 +60,7 @@ Unix shell reimplementation written in C.
 * fork / exec process handling
 * environment variable management
 
-➡️ https://github.com/Willi363363/minishell
+➡️ https://github.com/Willi363363/my-42sh-mirror
 
 ---
 
